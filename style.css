@@ -283,6 +283,24 @@ li a {
   transition:background 0.5s;
 }
 
+.img3{
+    background-image:url("saude-mental-black-white.png");
+    width: 280px;
+    height: 200px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.img3:hover{
+  background-image: url("saude-mental.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  transition:background 0.5s;
+}
+
 .portfolio-warp{
     width: 600px;
     float: left;
